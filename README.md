@@ -1,1 +1,1 @@
-# nagios-check-dnsbl
+# dnsbl-check-nagios
